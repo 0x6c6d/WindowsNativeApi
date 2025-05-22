@@ -1,5 +1,5 @@
-// compile: cl 1.cpp
-// execute: .\1.exe
+// compile: cl 1_ImportNtdll.cpp
+// execute: .\1_ImportNtdll.exe
 
 #include <Windows.h>
 #include <stdio.h>
